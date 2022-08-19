@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+My backend side : https://github.com/AJbugfixer/phase-3-sinatra-react-project/tree/copy
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
